@@ -1,6 +1,8 @@
 # Centreon 20.4
 minHelpCommand.php command name variable RCE (CVE-2020-12688)
 
+Centreon Latest Release Documentation: https://docs.centreon.com/current/en/releases/centreon-core.html
+
 Discovered by: TheCyberGeek @ ServMor Security
 
 Date Discovered: 30/04/2020
