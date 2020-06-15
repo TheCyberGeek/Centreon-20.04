@@ -1,6 +1,8 @@
 # Centreon 20.4
 minHelpCommand.php command name variable RCE (CVE-2020-12688)
 
+Discovered by: TheCyberGeek @ ServMor Security
+
 Date Discovered: 30/04/2020
 
 Date Disclosed: 15/06/2020
