@@ -1,4 +1,4 @@
-# Centreon 20.4
+# CVE-2020-12688 - Authenticated RCE Centreon 20.04 
 minHelpCommand.php command name variable RCE (CVE-2020-12688)
 
 Centreon Latest Release Documentation: https://docs.centreon.com/current/en/releases/centreon-core.html
